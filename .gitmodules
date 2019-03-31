@@ -1,4 +1,3 @@
 [submodule "minecraft.behar.cloud-client"]
 	path = minecraft.behar.cloud-client
 	url = git@gogs.behar.cloud:ben-behar/minecraft.behar.cloud-client.git
-  branch = beru
